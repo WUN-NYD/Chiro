@@ -73,7 +73,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 py-6 text-center text-gray-400 text-xs flex flex-col items-center gap-4">
         <Image src="/medios.png" alt="Medios de pago" width={300} height={30} className="mx-auto" />
         <p>
-          &copy; 2025 – Plotcenter. All Rights Reserved. <span className="text-red-500">Powered by Angelo (Senati)</span>
+          &copy; 2025 – Plotcenter. All Rights Reserved. <span className="text-red-500">Powered by Creado por el Estudiante Anggelo Puma Huaman (Senati)</span>
         </p>
 
         <div className="flex flex-wrap justify-center gap-4 text-white font-light">

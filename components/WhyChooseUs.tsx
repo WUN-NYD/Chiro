@@ -31,7 +31,7 @@ export default function WhyChooseUs() {
     <section className="bg-white py-16 relative">
       <div className="max-w-6xl mx-auto px-4 text-center">
         <h2 className="text-3xl font-bold text-black mb-4">¿Por qué elegirnos?</h2>
-        <p className="text-gray-600 mb-10">Descubre lo que hace única nuestra propuesta en impresión digital.</p>
+        <p className="text-gray-600 mb-10">Descubre lo que hace única nuestra propuesta en impresión digital,Gigantografias "Chiro".</p>
 
         {/* Flechas animadas sobre cada columna */}
         <div className="absolute hidden lg:flex justify-between top-8 left-0 right-0 px-24 z-0">
